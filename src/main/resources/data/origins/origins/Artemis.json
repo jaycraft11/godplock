@@ -5,8 +5,7 @@
 		"origins:aqua_affinity",
 		"origins:swim_speed",
 		"origins:like_water",
-		"origins:conduit_power_on_land",
-		"origins:air_from_potions"
+		"origins:conduit_power_on_land"
 	],
 	"icon": {
 		"item": "minecraft:bow"
