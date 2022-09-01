@@ -5,10 +5,11 @@
 		"origins:nine_lives",
 		"origins:weak_arms",
 		"origins:scare_creepers",
-		"origins:cat_vision"
+		"origins:cat_vision",
+		"origins:water_vulnerability"
 	],
 	"icon": {
-		"item": "minecraft:orange_wool"
+		"item": "minecraft:gold_boots"
 	},
 	"order": 0,
 	"impact": 2
